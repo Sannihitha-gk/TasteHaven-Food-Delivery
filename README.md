@@ -52,23 +52,23 @@ TasteHaven is a modern Full Stack Food Ordering Platform built using **React.js*
 
 ### Home Page
 
-![Home](food-delivery-frontend/screenshots/home.png)
+![Home](screenshots/home.png)
 
 ### Restaurant Menu & Cart
 
-![Menu](food-delivery-frontend/screenshots/menu-cart.png)
+![Menu](screenshots/menu-cart.png)
 
 ### Order Placed Successfully
 
-![Order Success](food-delivery-frontend/screenshots/order-success.png)
+![Order Success](screenshots/order-success.png)
 
 ### Admin Login
 
-![Admin Login](food-delivery-frontend/screenshots/admin-login.png)
+![Admin Login](screenshots/admin-login.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](food-delivery-frontend/screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ---
 
