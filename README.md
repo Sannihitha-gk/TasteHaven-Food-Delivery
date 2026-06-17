@@ -48,27 +48,27 @@ TasteHaven is a modern Full Stack Food Ordering Platform built using **React.js*
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
 
-![Home](screenshots/home.png)
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/home.png" width="900"/>
 
-### Restaurant Menu & Cart
+### 🍽️ Restaurant Menu & Cart
 
-![Menu](screenshots/menu-cart.png)
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/menu-cart.png" width="900"/>
 
-### Order Placed Successfully
+### ✅ Order Placed Successfully
 
-![Order Success](screenshots/order-success.png)
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/order-success.png" width="900"/>
 
-### Admin Login
+### 🔐 Admin Login
 
-![Admin Login](screenshots/admin-login.png)
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/admin-login.png" width="900"/>
 
-### Admin Dashboard
+### 📊 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/admin-dashboard.png" width="900"/>
 
 ---
 
