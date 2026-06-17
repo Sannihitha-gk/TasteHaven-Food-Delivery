@@ -282,7 +282,7 @@ GitHub:
 https://github.com/Sannihitha-gk
 
 LinkedIn:
-(Add Your LinkedIn Profile Here)
+https://www.linkedin.com/in/sannihitha-govulakonda/
 
 ---
 
