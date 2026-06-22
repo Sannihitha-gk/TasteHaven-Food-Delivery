@@ -52,7 +52,7 @@ TasteHaven is a modern Full Stack Food Ordering Platform built using **React.js*
 
 ### 🏠 Home Page
 
-<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/home.png" width="900"/>
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/Home.png" width="900"/>
 
 ### 🍽️ Restaurant Menu & Cart
 
