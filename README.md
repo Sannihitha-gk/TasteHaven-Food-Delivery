@@ -50,25 +50,25 @@ TasteHaven is a modern Full Stack Food Ordering Platform built using **React.js*
 
 ## 📸 Screenshots
 
-### 📝 Registration Page
+### 🏠 Home Page
 
-<img src="https://raw.githubusercontent.com/Sannihitha-gk/User-Registration-System/main/screenshots/register.png" width="900"/>
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/home.png" width="900"/>
 
-### 🔐 Login Page
+### 🍽️ Restaurant Menu & Cart
 
-<img src="https://raw.githubusercontent.com/Sannihitha-gk/User-Registration-System/main/screenshots/login.png" width="900"/>
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/menu-cart.png" width="900"/>
 
-### 👤 User Dashboard
+### ✅ Order Placed Successfully
 
-<img src="https://raw.githubusercontent.com/Sannihitha-gk/User-Registration-System/main/screenshots/dashboard.png" width="900"/>
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/order-success.png" width="900"/>
 
-### ⚙️ Django Admin Panel
+### 🔐 Admin Login
 
-<img src="https://raw.githubusercontent.com/Sannihitha-gk/User-Registration-System/main/screenshots/admin.png" width="900"/>
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/admin-login.png" width="900"/>
 
-### 🗄️ MySQL Database Tables
+### 📊 Admin Dashboard
 
-<img src="https://raw.githubusercontent.com/Sannihitha-gk/User-Registration-System/main/screenshots/database.png" width="900"/>
+<img src="https://raw.githubusercontent.com/Sannihitha-gk/TasteHaven-Food-Delivery/main/screenshots/admin-dashboard.png" width="900"/>
 
 ## Run Locally
 
