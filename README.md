@@ -4,7 +4,7 @@ TasteHaven is a modern Full Stack Food Ordering Platform built using **React.js*
 
 ## Demo
 
-* User Panel: http://localhost:3000
+* User Panel: https://tastehaven.vercel.app
 * Admin Panel: http://localhost:3000/admin
 
 ## Features
